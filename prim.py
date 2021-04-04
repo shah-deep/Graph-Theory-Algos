@@ -1,8 +1,4 @@
 '''
-Group 5
-Animesh Gupta (201851153)
-Deep Shah (201851037)
-
 Prim's Algorithm
 
 How to Run:
