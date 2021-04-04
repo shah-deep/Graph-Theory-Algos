@@ -4,3 +4,6 @@
  
  1. [Bellman-Ford Algorithm](/bellmanFord.py)
  2. [Dijkstra's Algorithm](/dijkstra.py)
+ 3. [Hopcroft-Karp Algorithm](/hopcroft_karp.cpp)
+ 4. [Prim's Algorithm](/prim.py)
+ 5. [Topological Sorting](/topologicalSort.py)
