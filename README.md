@@ -7,3 +7,4 @@
  3. [Hopcroft-Karp Algorithm](/hopcroft_karp.cpp)
  4. [Prim's Algorithm](/prim.py)
  5. [Topological Sorting](/topologicalSort.py)
+ 6. [Floyd-Warshall Algorithm](/floydWarshall.py)
