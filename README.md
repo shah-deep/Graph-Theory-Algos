@@ -8,3 +8,4 @@
  4. [Prim's Algorithm](/prim.py)
  5. [Topological Sorting](/topologicalSort.py)
  6. [Floyd-Warshall Algorithm](/floydWarshall.py)
+ 7. [Vertex Coloring](/vertex_coloring.py)
