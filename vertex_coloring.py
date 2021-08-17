@@ -28,7 +28,9 @@ def Color(G):
         color = getColor(G,colors,coloring,u)
         colors.add(color)
         coloring[u] = color
-
+        
+    print(f"\nColoring Index: {len(colors)}")
+    
     return coloring
 
 
